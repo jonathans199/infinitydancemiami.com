@@ -241,7 +241,7 @@
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
                                             <h4>Irasema Cabrera</h4>
-                                            <span>Co-Founder</span>
+                                            <span>Co-Founder </span>
                                         </div>
                                     </div>
                                 </div>
@@ -264,7 +264,7 @@
                 </div>
             </div>
         </section>
-         <iframe src="http://lightwidget.com/widgets/fef6ea691aa555e7874b9915019cb3b6.html" id="lightwidget_fef6ea691a" name="lightwidget_fef6ea691a" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+        <iframe src="http://lightwidget.com/widgets/fef6ea691aa555e7874b9915019cb3b6.html" id="lightwidget_fef6ea691a" name="lightwidget_fef6ea691a" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
   </div>
 </template>
 
@@ -276,6 +276,7 @@
     components: {
       Slider
     },
+
     mounted(){
     jQuery(window).load(function() {
         
