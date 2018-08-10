@@ -62,6 +62,7 @@
 														class="sm-form-control" 
 														maxlength="255" 
 														placeholder="First Name" 
+														required
 													/>
 													</div>
 													<div class="col_one_third">
@@ -84,6 +85,7 @@
 															class="sm-form-control" 
 															maxlength="255" 
 															placeholder="Cell" 
+															required
 														/>
 													</div>
 													<div class="col_two_third">
@@ -95,6 +97,7 @@
 															class="required email sm-form-control" 
 															maxlength="255" 
 															placeholder="Email" 
+															required
 														/>
 													</div>
 													<div class="col_two_third">
@@ -120,7 +123,19 @@
 														</div>
 													</td>
 													<div class="col_full">
-														<input class="button button-3d nomargin" type="submit" value="Submit" id="catwebformbutton" />
+														<button 
+															class="button button-3d nomargin"
+															type="submit"
+															v-if="!this.loading">
+															Submit
+														</button>
+														<button 
+															type="submit" 
+															class="button button-3d nomargin"
+															disabled
+															v-if="this.loading">
+															SENDING <i class="fa fa-circle-o-notch fa-spin" />
+														</button>
 													</div>
 													<!-- <script type="text/javascript">
 													//<![CDATA[
@@ -204,7 +219,7 @@ export default {
         message: null
       },
       show: true,
-      api: 'http://localhost:8086/api/contact'
+      api: '/api/contact'
     }
   },
 

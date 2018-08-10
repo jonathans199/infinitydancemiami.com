@@ -1,8 +1,10 @@
 const express   = require('express')
 var bodyParser  = require('body-parser')
 var cors = require('cors')
+var history = require('connect-history-api-fallback');
 
 const app       = express()
+app.use(history())
 
 app.use(bodyParser.json()) // support json encoded bodies
 app.use(bodyParser.urlencoded({ extended: true })) // support encoded bodies
@@ -23,10 +25,10 @@ app.post('/api/contact', (req, res) => {
     from: 'no-reply@infinitydancemiami.com',
     to:   'mdiaz00147@gmail.com',
     subject: 'Contact from your - infinitydancemiami.com',
-    html: ('<h2>Contact form website</h2><br> Email: ' + email + '<br> Name: ' + name + '<br> Message: ' + message)
+    html: ('<h2>Contact form website</h2><br> Email: ' + email + '<br> Name: ' + name + ' ' + lastName + '<br> Phone: ' + phone + '<br> Message: ' + message)
   }
 
-  if(name && email && message){
+  if(name && email && phone) {
     let response = mailgun.messages().send(data, function (error, body) { return body })
     res.send({ m: 'Contact successfully sent' })
   } else {
