@@ -14,7 +14,9 @@ app.post('/api/contact', (req, res) => {
   let domain    = 'mg.asoftio.com'
   let mailgun   = require('mailgun-js')({apiKey: api_key, domain: domain})
   let name    = req.body.name
+  let lastName    = req.body.lastName
   let email   = req.body.email
+  let phone   = req.body.phone
   let message = req.body.message
 
   var data      = {
@@ -30,7 +32,6 @@ app.post('/api/contact', (req, res) => {
   } else {
     res.status(500).send({ m: 'Some error ocurred' })
   }
-  
 })
 
 app.listen(8086, () => console.log('Listening'))
