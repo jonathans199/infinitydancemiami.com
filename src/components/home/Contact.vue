@@ -68,12 +68,6 @@
                             <div class="col_two_third">
                                         <textarea name="CAT_Custom_869" id="CAT_Custom_869" cols="10" rows="4" class="required sm-form-control" onkeydown="if(this.value.length>=4000)this.value=this.value.substring(0,3999);"></textarea>
                             </div>
-                                        <label>Preferred Contact Method</label>
-                                        <br />
-                                        <input type="radio" name="CAT_Custom_868" id="CAT_Custom_868_0" value="Phone" /> Phone
-                                        <br />
-                                        <input type="radio" name="CAT_Custom_868" id="CAT_Custom_868_1" value="Email" /> Email
-                                
                                     <td><div style="display: none">
 <input type="text" name="s_content" id="s_content" class="cat_textbox" />
 <input type="text" name="s_summary" id="s_summary" class="cat_textbox" value="b92a0ef4c3044dd7acab8b9770dcafdb" />
