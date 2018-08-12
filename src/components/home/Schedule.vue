@@ -47,81 +47,79 @@
                                         </tr>
                                         <tr>
                                             <td style="background: #ffe4ee;">4 - 4:45 PM</td>
+                                            <td class="center">Private </td>
                                             <td class="center">Baby Ballet</td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
+                                            <td class="center">Private</td>
+                                            <td class="center">Private</td>
+                                            <td class="center">Private</td>
+                                            <td class="center">Baby Ballet</td>
+                                            <td class="center">Private</td>
+                                            <td class="center">Baby Jazz</td>
+                                            <td class="center">Private</td>
+                                            <td class="center">Baby Contemp</td>
+                                            <td class="center"></td>
+                                            <td class="center"></td>
                                         </tr>
 
                                         <tr>
                                             <td style="background: #ffe4ee;">5 PM</td>
-                                            <td class="center">Ballet I</td>
+                                            <td class="center">Belly Dance I</td>
                                             <td class="center">Pre-Ballet I</td>
-                                            <td class="center">Hip-Hop I</td>
-                                            <td class="center">Acro I</td>
-                                            <td class="center">Pre-ballet II</td>
-                                            <td class="center">Ballet I</td>
+                                            <td class="center">Acro I A</td>
+                                            <td class="center">Hip Hop I</td>
+                                            <td class="center">Competition</td>
+                                            <td class="center">Pre Ballet II</td>
                                             <td class="center">Flamenco I</td>
-                                            <td class="center">Acro III</td>
-                                            <td class="center">Contempo I</td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
+                                            <td class="center">Jazz I</td>
+                                            <td class="center">Pre Ballet II</td>
+                                            <td class="center">Contemporary I</td>
+                                            <td class="center"></td>
+                                            <td class="center"></td>
                                         </tr>
                                         <tr>
                                             <td style="background: #ffe4ee;">6 PM</td>
-                                            <td class="center">Ballet II</td>
-                                            <td class="center">Belly Dance I</td>
+                                            <td class="center">Belly Dance II </td>
+                                            <td class="center">Ballet I/II</td>
+                                            <td class="center">Acro II</td>
                                             <td class="center">Hip Hop II</td>
-                                            <td class="center">Jazz I</td>
+                                            <td class="center">Ballet I/II</td>
                                             <td class="center">Contemporary II</td>
-                                            <td class="center">Ballet II</td>
                                             <td class="center">Flamenco II</td>
-                                            <td class="center">Jazz II</td>
+                                            <td class="center">Ballroom I</td>
+                                            <td class="center">Private</td>
                                             <td class="center">Pointe I</td>
-                                            <td class="center">Jazz III</td>
-                                            <td></td>
-                                            <td></td>
+                                            <td class="center"></td>
+                                            <td class="center"></td>
                                         </tr>
                                         <tr>
                                             <td style="background: #ffe4ee;">7 PM</td>
-                                            <td class="center">Ballet III</td>
-                                            <td class="center">Belly Dance II</td>
-                                            <td class="center">Physical
-                                                <br>/conditioning***</td>
-                                            <td class="center">Acro II</td>
-                                            <td class="center">Contemporary
-                                                <br>III</td>
-                                            <td class="center">Ballet III</td>
-                                            <td class="center">Ballroom I</td>
-                                            <td class="center">Flamenco III</td>
+                                            <td class="center">Ballet III-A</td>
+                                            <td class="center">Ballet III-B</td>
+                                            <td class="center">Ballet III-A</td>
+                                            <td class="center">Acro III</td>
+                                            <td class="center">Ballet IIIB</td>
+                                            <td class="center">Contemporary III</td>
+                                            <td class="center">Acro IV</td>
+                                            <td class="center">Competition</td>
+                                            <td class="center">Private</td>
                                             <td class="center">Pointe II</td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
+                                            <td class="center"></td>
+                                            <td class="center"></td>
                                         </tr>
                                         <tr>
                                             <td style="background: #ffe4ee;">8 PM</td>
+                                            <td class="center">Competition</td>
                                             <td class="center">Ballet IV/V</td>
                                             <td class="center">Competition</td>
-                                            <td class="center">Competition</td>
-                                            <td class="center">Acro IV</td>
-                                            <td class="center">Competition</td>
-                                            <td class="center">Ballet IV</td>
+                                            <td class="center">Jazz II/III</td>
+                                            <td class="center">Private</td>
+                                            <td class="center">Ballet IV/V</td>
+                                            <td class="center">Private</td>
                                             <td class="center">Ballroom II</td>
                                             <td class="center">Private</td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
-                                            <td></td>
+                                            <td class="center">Private</td>
+                                            <td class="center"></td>
+                                            <td class="center"></td>
                                         </tr>
                                         <tr>
                                             <td style="background: #ffe4ee;">10 AM</td>
@@ -135,7 +133,7 @@
                                             <td></td>
                                             <td></td>
                                             <td></td>
-                                            <td class="center">Pre-Ballet I</td>
+                                            <td class="center">Private</td>
                                             <td class="center">Pre-Ballet I</td>
 
                                         </tr>
@@ -151,7 +149,7 @@
                                             <td></td>
                                             <td></td>
                                             <td></td>
-                                            <td class="center">Pre-Ballet II</td>
+                                            <td class="center">Private</td>
                                             <td class="center">Pre-Ballet II</td>
                                         </tr>
                                     </tbody>

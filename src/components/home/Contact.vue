@@ -7,52 +7,22 @@
 				<span><a href="mailto:dance@infinitydancemiami.com">dance@infinitydancemiami.com</a></span>
 			</div>
 		</section>
-				<section id="google-map" class="gmap slider-parallax"></section>
-				<!--<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>-->
-				<!--<script type="text/javascript" src="/_assets/js/jquery.gmap.js"></script>-->
-				<!--<script type="text/javascript">
+		<section id="google-map" class="gmap slider-parallax"></section>
+			<!-- <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> -->
+			<!-- <script type="text/javascript" src="/_assets/js/jquery.gmap.js"></script> -->
 
-							$('#google-map').gMap({
-
-								address: '8901 SW 157th AVE, MIAMI, FLORIDA 33196',
-								maptype: 'ROADMAP',
-								zoom: 14,
-								markers: [
-									{
-										address: "8901 SW 157th AVE, MIAMI, FLORIDA 33196",
-										html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>Envato</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
-										icon: {
-																		image: "/_assets/img/map-icon-red.png",
-											iconsize: [32, 39],
-											iconanchor: [13,39]
-										}
-									}
-								],
-								doubleclickzoom: false,
-								controls: {
-									panControl: true,
-									zoomControl: true,
-									mapTypeControl: true,
-									scaleControl: false,
-									streetViewControl: false,
-									overviewMapControl: false
-								}
-
-							});
-
-					</script>	-->
-			<section id="content">
-
+		<section id="content">
 			<div class="content-wrap">
 
 				<div class="container clearfix">
 					<div class="postcontent nobottommargin">
 
-                        <h3>Send us an Email</h3>
-                        
-                        <!--<script type="text/javascript" src="/CatalystScripts/ValidationFunctions.js?vs=b2050.r494698-phase1">
-                        </script>-->
-                        <form name="catwebformform97335" @submit="onSubmit" @reset="onReset" v-if="show" enctype="multipart/form-data" >
+												<h3>Send us an Email</h3>
+												
+												<!--<script type="text/javascript" src="/CatalystScripts/ValidationFunctions.js?vs=b2050.r494698-phase1">
+												</script>-->
+
+												<form name="catwebformform97335" @submit="onSubmit" @reset="onReset" v-if="show" enctype="multipart/form-data" >
 													<div class="col_one_third">
 													<input 
 														v-model="form.name"
@@ -162,10 +132,11 @@
 													}
 													//]]>
 													</script>-->
-                        </form>
-                    </div>
-                
-          <div class="sidebar col_last nobottommargin">
+
+												</form>
+										</div>
+								
+					<div class="sidebar col_last nobottommargin">
 
 						<address>
 							<strong>Infinity Dance Studio</strong><br>
@@ -195,7 +166,6 @@
 				</div>
 
 			</div>
-
 		</section><!-- #content end -->
 	</div>
 </template>
@@ -203,6 +173,7 @@
 import axios from 'axios'
 import Toasted from 'vue-toasted'
 import Vue from 'vue';
+import $ from 'jquery'
 Vue.use(Toasted)
 
 export default {
@@ -224,33 +195,34 @@ export default {
   },
 
 	mounted(){
-			$('#google-map').gMap({
+		console.log($('#google-map'))
+		$('#google-map').gMap({
 
-				address: '8901 SW 157th AVE, MIAMI, FLORIDA 33196',
-				maptype: 'ROADMAP',
-				zoom: 14,
-				markers: [
-					{
-						address: "8901 SW 157th AVE, MIAMI, FLORIDA 33196",
-						html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>Envato</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
-						icon: {
-														image: "/_assets/img/map-icon-red.png",
-							iconsize: [32, 39],
-							iconanchor: [13,39]
-						}
-					}
-				],
-				doubleclickzoom: false,
-				controls: {
-					panControl: true,
-					zoomControl: true,
-					mapTypeControl: true,
-					scaleControl: false,
-					streetViewControl: false,
-					overviewMapControl: false
-				}
+          address: '8901 SW 157th AVE, MIAMI, FLORIDA 33196',
+          maptype: 'ROADMAP',
+          zoom: 14,
+          markers: [
+              {
+                  address: "8901 SW 157th AVE, MIAMI, FLORIDA 33196",
+                  html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Hi, we\'re <span>Envato</span></h4><p class="nobottommargin">Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.</p></div>',
+                  icon: {
+                                                  image: "/_assets/img/map-icon-red.png",
+                      iconsize: [32, 39],
+                      iconanchor: [13,39]
+                  }
+              }
+          ],
+          doubleclickzoom: false,
+          controls: {
+              panControl: true,
+              zoomControl: true,
+              mapTypeControl: true,
+              scaleControl: false,
+              streetViewControl: false,
+              overviewMapControl: false
+          }
 
-			});
+        });
 
 	},
 
