@@ -37,33 +37,18 @@
                 <div class="widget subscribe-widget clearfix">
                     <h5><strong>Subscribe</strong> to Our Newsletter to get News and Offers</h5>
                     <!--<script type="text/javascript" src="/CatalystScripts/ValidationFunctions.js?vs=b2050.r494698-phase1"></script>-->
-                    <form name="catwebformform55164" method="post" onsubmit="return checkWholeForm55164(this)" enctype="multipart/form-data" action="http://www.infinitydancemiami.com/FormProcessv2.aspx?WebFormID=749148&amp;OID=19529624&amp;OTYPE=1&amp;EID=0&amp;CID=0">
-                        <input type="text" name="EmailAddress" id="EmailAddress" class="form-control required email" maxlength="255" placeholder="Email">
-                        <br>
-                        <input class="btn btn-success" type="submit" value="Submit" id="catwebformbutton">
-                        
-                       <!-- <script type="text/javascript">
-                            //<![CDATA[
-                            var submitcount55164 = 0;
-                            
-                            function checkWholeForm55164(theForm) {
-                                var why = "";
-                                if (theForm.EmailAddress) why += checkEmail(theForm.EmailAddress.value);
-                                if (why != "") {
-                                    alert(why);
-                                    return false;
-                                }
-                                if (submitcount55164 == 0) {
-                                    submitcount55164++;
-                                    theForm.submit();
-                                    return false;
-                                } else {
-                                    alert("Form submission is in progress.");
-                                    return false;
-                                }
-                            }
-                            //]]>
-                        </script>-->
+                    <form    @submit="onSubmit"  @reset="onReset" v-if="show">
+                      <input 
+                        type="text" 
+                        name="EmailAddress" 
+                        id="EmailAddress" 
+                        class="form-control required email" 
+                        maxlength="255" 
+                        v-model="form.email"
+                        required
+                        placeholder="Email">
+                      <br>
+                      <input class="btn btn-success" type="submit" value="Submit" id="catwebformbutton">
                         
                     </form>
                     <div class="widget clearfix" style="margin-bottom: -20px;">
@@ -103,7 +88,61 @@
  </div>
 </template>
 <script>
-  export default {
-   name: "FooterContent",
-  }
+import axios from 'axios'
+import Toasted from 'vue-toasted'
+import Vue from 'vue';
+import jQuery from 'jquery'
+import config from './../../../config/config.js'
+
+Vue.use(Toasted)
+
+export default {
+  name: "FooterContent",
+  data () {
+    return {
+      loading: false,
+      form: {
+        email: ''
+      },
+      show: true,
+      api: config.defaultURL + '/api/news_letters'
+    }
+  },
+
+  methods: {
+    onSubmit (evt) {
+      evt.preventDefault();
+      this.loading = true
+      axios.post(this.api, this.form)
+      .then(response => {
+        this.$toasted.show(response.data.m, { 
+          position:'top-right', 
+          duration: 5000,
+          type: 'success'
+        })
+        this.onReset(evt)
+        this.loading = false
+      })
+      .catch((error) => {
+        this.$toasted.show(error.response.data.m, { 
+          position:'top-right', 
+          duration: 5000,
+          type: 'error'
+        })
+        this.loading = false
+      })
+    },
+
+    onReset (evt) {
+      evt.preventDefault();
+      /* Reset our form values */
+      this.form.email = '';
+      this.form.name = '';
+      this.form.message = null;
+      /* Trick to reset/clear native browser form validation state */
+      this.show = false;
+      this.$nextTick(() => { this.show = true });
+    }
+  } 
+}
 </script>
