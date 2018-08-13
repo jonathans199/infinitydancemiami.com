@@ -168,7 +168,7 @@
                                     document.body.innerHTML = originalContents;
                                 }
                             </script>-->
-                            Updated August 1, 2016
+                            Updated August 10, 2018
                             <br /> *** Physical/Conditioning Additional Fee $10
                         </div>
                 </div>
