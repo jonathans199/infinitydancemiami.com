@@ -6,13 +6,14 @@ const app     = express()
 let api_key   = 'key-42b17e5481a2ad150c8d44defc8f08ff'
 let domain    = 'mg.asoftio.com'
 let mailgun   = require('mailgun-js')({apiKey: api_key, domain: domain})
-let config    = require('./../src/config/config.js')
+let config    = require('./../config/config.js')
 
 app.use(history())
 app.use(bodyParser.json()) // support json encoded bodies
 app.use(bodyParser.urlencoded({ extended: true })) // support encoded bodies
 app.use(cors())
 app.use('/', express.static('./../html'))
+// GET method route
 
 app.post('/api/contact', (req, res) => {
   let name      = req.body.name
@@ -36,7 +37,6 @@ app.post('/api/contact', (req, res) => {
 })
 
 app.post('/api/news_letters', (req, res) => {
-  console.log(config.deliveryEmail)
   let email   = req.body.email
   var data    = {
     from: 'no-reply@infinitydancemiami.com',
@@ -53,4 +53,4 @@ app.post('/api/news_letters', (req, res) => {
   }
 })
 
-app.listen(8086, () => console.log('Listening'))
+app.listen(config.apiPort, () => console.log('Listening on port:' + config.apiPort))
