@@ -92,7 +92,7 @@ import axios from 'axios'
 import Toasted from 'vue-toasted'
 import Vue from 'vue';
 import jQuery from 'jquery'
-import config from './../../../config/config.js'
+let config = require('./../../../../vue.config.js')
 
 Vue.use(Toasted)
 
