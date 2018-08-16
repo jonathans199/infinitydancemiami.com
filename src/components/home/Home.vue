@@ -1,4 +1,5 @@
 <template>
+<!-- David comment -->
   <div>
     <Slider/>
     <section id="content">
