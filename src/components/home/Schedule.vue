@@ -97,7 +97,7 @@
                                             <td class="center">Ballet III-B</td>
                                             <td class="center">Ballet III-A</td>
                                             <td class="center">Acro III</td>
-                                            <td class="center">Ballet IIIB</td>
+                                            <td class="center">Ballet III B</td>
                                             <td class="center">Contemporary III</td>
                                             <td class="center">Acro IV</td>
                                             <td class="center">Competition</td>
@@ -150,7 +150,7 @@
                                             <td></td>
                                             <td></td>
                                             <td class="center">Private</td>
-                                            <td class="center">Pre-Ballet II</td>
+                                            <td class="center">Acro I B</td>
                                         </tr>
                                     </tbody>
 
