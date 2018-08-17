@@ -1,6 +1,6 @@
 <template>
     <div>    
-        <section id="slider" class="slider-parallax revoslider-wrap clearfix">
+        <section id="slider" class="slider-parallax revoslider-wrap clearfix" style="top:-100px">
             <!--- THEMEPUNCH BANNER -->
             <div class="tp-banner-container fullscreen-container">
                 <div class="tp-banner">
