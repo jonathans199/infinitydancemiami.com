@@ -107,6 +107,7 @@
 															SENDING <i class="fa fa-circle-o-notch fa-spin" />
 														</button>
 													</div>
+
 												</form>
 										</div>
 								

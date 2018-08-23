@@ -11,6 +11,6 @@ module.exports = {
   // where to output built files
   outputDir: 'html',
   devServer: { 
-    port: 8086
+    port: 3002
   }
 }
