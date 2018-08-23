@@ -16,7 +16,7 @@
                 <!-- #logo end -->
                 <nav id="primary-menu" class="dark">
                     <ul>
-                        <li><a href="/about">About</a></li>
+                        <li><a href="https://dancestudio-pro.com/online/index.php?account_id=1160" target="_blank">log in</a></li>
                         <li><a href="/classes">Classes</a>
                             <ul>
                                 <li><a href="/schedule">Schedule</a></li>
@@ -33,8 +33,8 @@
                             </ul>
                         </li>
                         <li><a href="/tuitionandfees">tuition &amp; fees</a></li>
-                        <li><a href="/whatson">whats on</a></li>
                         <li><a href="/competition">Competition Team</a></li>
+						<li><a href="/about">About</a></li>
                         <li><a href="/contact">contact</a></li>
                     </ul>
                 </nav>
