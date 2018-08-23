@@ -1,7 +1,7 @@
 'use strict';
 
-const SEVER_PORT = 3002
-const DELIVERY_EMAIL = 'mdiaz00147@gmail.com'
+const SEVER_PORT = 8086
+const DELIVERY_EMAIL = 'jonathan@asoftio.com'
 
 const express   = require('express')
 var bodyParser  = require('body-parser')
