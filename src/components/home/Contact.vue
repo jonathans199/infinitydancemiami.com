@@ -107,32 +107,6 @@
 															SENDING <i class="fa fa-circle-o-notch fa-spin" />
 														</button>
 													</div>
-													<!-- <script type="text/javascript">
-													//<![CDATA[
-													var submitcount97335 = 0;
-													
-													function checkWholeForm97335(theForm) {
-															var why = "";
-															if (theForm.FirstName) why += isEmpty(theForm.FirstName.value, "First Name");
-															if (theForm.LastName) why += isEmpty(theForm.LastName.value, "Last Name");
-															if (theForm.CellPhone) why += isEmpty(theForm.CellPhone.value, "Cell Phone Number");
-															if (theForm.EmailAddress) why += checkEmail(theForm.EmailAddress.value);
-															if (why != "") {
-																	alert(why);
-																	return false;
-															}
-															if (submitcount97335 == 0) {
-																	submitcount97335++;
-																	theForm.submit();
-																	return false;
-															} else {
-																	alert("Form submission is in progress.");
-																	return false;
-															}
-													}
-													//]]>
-													</script>-->
-
 												</form>
 										</div>
 								
