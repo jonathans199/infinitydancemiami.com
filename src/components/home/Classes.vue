@@ -159,7 +159,7 @@
 
                         <p>Our Ballroom classes are structured in a way that dancers are allowed to explore a variety of rhythms with each of their own step-patterns and movements. Known for being highly energetic a dance discipline, ballroom reflects the
                             syncopated rhythm of the music being danced to.</p>
-                        <p>ome of the rhythms our dancers learn are Swing, Rumba/Bolero, Cha Cha, Salsa/Mambo, Merengue, Disco/Hustle, Samba and Paso Doble.
+                        <p>Some of the rhythms our dancers learn are Swing, Rumba/Bolero, Cha Cha, Salsa/Mambo, Merengue, Disco/Hustle, Samba and Paso Doble.
                         </p>
 
                         <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>

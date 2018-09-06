@@ -137,7 +137,7 @@
                         <h4>Registration fee of $35.00 is once a year payment. This is a non-refundable fee. If the student retires from dancing for a full month, registration will be required when returning. <br /> Additional siblings: $20/each</h4>
 
                         <h2>Make-Up Classes</h2>
-                        <h4>"In case of missed class due to emergency, it may be made up within 30 days from the day of absence. No credits/refunds will be issued for any missed classes."</h4>
+                        <h4>In case of missed class due to emergency, it may be made up within 30 days from the day of absence. No credits/refunds will be issued for any missed classes.</h4>
                     </div>
 
                 </div>
