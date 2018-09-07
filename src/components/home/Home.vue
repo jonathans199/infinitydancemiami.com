@@ -12,7 +12,7 @@
                                 <h1>Welcome to<br /> INFINITY DANCE STUDIO.</h1>
                             </div>
                             <p class="lead">Infinity Dance Studio began as a dream. A dream guided by a vision to transmit teachings, lessons, and an immense love for dancing. We are an institution specialized in children and young adults with the objective of becoming
-                                professionals in any of the dance disciplines, for those who consider dance a essential complement of their formal education, and for those who simply love this form of art.</p>
+                                professionals in any of the dance disciplines, for those who consider dance an essential complement of their formal education, and for those who simply love this form of art.</p>
                         </div>
                         <div class="col-lg-7">
                             <div data-height-xxs="380" data-height-xs="287" data-height-sm="470" data-height-md="567" data-height-lg="626" class="ohidden" style="position: relative; margin-bottom: -60px;">
