@@ -1,7 +1,7 @@
 'use strict';
 
 const SEVER_PORT = 3002
-const DELIVERY_EMAIL = 'mdiaz00147@gmail.com'
+const DELIVERY_EMAIL = 'jonathan@asoftio.com'
 
 const express   = require('express')
 var bodyParser  = require('body-parser')
@@ -29,7 +29,7 @@ app.post('/api/contact', (req, res) => {
     from: 'no-reply@infinitydancemiami.com',
     to:   DELIVERY_EMAIL,
     subject: 'Contact from your - infinitydancemiami.com',
-    html: ('<h2>Contact form website</h2><br> Email: ' + email + '<br> Name: ' + name + ' ' + lastName + '<br> Phone: ' + phone + '<br> Message: ' + message)
+    html: ('<h2>Contact form InfinityDanceMiami.com</h2><br> Email: ' + email + '<br> Name: ' + name + ' ' + lastName + '<br> Phone: ' + phone + '<br> Message: ' + message)
   }
 
   if(name && email && phone) {
@@ -46,7 +46,7 @@ app.post('/api/news_letters', (req, res) => {
     from: 'no-reply@infinitydancemiami.com',
     to:   DELIVERY_EMAIL,
     subject: 'News Letter Subscriptor - infinitydancemiami.com',
-    html: ('<h2>A new user wants to register into your newsletter list</h2><br> Email: ' + email + '<br>')
+    html: ('<h2>A new user registered into your newsletter list</h2><br> Email: ' + email + '<br>')
   }
 
   if(email) {
