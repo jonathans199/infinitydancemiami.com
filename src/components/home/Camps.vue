@@ -19,7 +19,7 @@
                             <h3>Summer camp</h3>
                         </div>
 
-                        <p>Our purpose is to provide a summer program for our dancers to can develop their passion for dancing and improve their technique in all disciplines in a secure and fun environment.
+                        <p>Our purpose is to provide a summer program for our dancers to develop their passion for dancing and improve their technique in all disciplines in a secure and fun environment.
                         </p>
 
                         <p>Some of our activities are: Acting, Acrobatics, Ballet, Ballroom, Belly Dancing, Conditioning, Flamenco, Jazz, Hip-Hop, Field Trips and more! </p>

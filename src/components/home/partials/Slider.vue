@@ -28,7 +28,7 @@
                                 data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.1" data-endspeed="1000" data-endeasing="Power4.easeIn" style="z-index: 3;"><a href="contact.html" class="button button-border button-white button-dark button-large button-rounded tright nomargin"><span>Start Today</span> <i class="icon-angle-right"></i></a>
                             </div>
                         </li>
-                        <li data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="/assets/img/slide1_thumb.jpg" data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off" data-title="Passion">
+                        <li data-transition="slideleft" data-slotamount="1" data-masterspeed="1000" data-thumb="/assets/img/slide1_thumb.jpg" data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off" data-title="Passion">
                             <!-- MAIN IMAGE -->
                             <img src="/assets/img/slide1.jpg" alt="video_typing_cover" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 
@@ -46,7 +46,7 @@
                                 data-splitin="none" data-splitout="none" data-elementdelay="0.01" data-endelementdelay="0.1" data-endspeed="1000" data-endeasing="Power4.easeIn" style="z-index: 3;"><a href="contact.html" class="button button-border button-white button-dark button-large button-rounded tright nomargin"><span>Dance Now</span> <i class="icon-angle-right"></i></a>
                             </div>
                         </li>
-                        <li class="dark" data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="/assets/img/slide2_thumb.jpg" data-saveperformance="off" data-title="Professionalism">
+                        <li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1000" data-thumb="/assets/img/slide2_thumb.jpg" data-saveperformance="off" data-title="Professionalism">
                             <!-- MAIN IMAGE -->
                             <img src="/assets/img/slide2.jpg" alt="video_typing_cover" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 
