@@ -266,6 +266,8 @@
                 </div>
             </div>
         </section>
+        <!-- <iframe src="https://api.instagram.com/oembed?url=https://www.instagram.com/infinitydancestudio/" frameborder="0"></iframe> -->
+
         <iframe src="http://lightwidget.com/widgets/fef6ea691aa555e7874b9915019cb3b6.html" id="lightwidget_fef6ea691a" name="lightwidget_fef6ea691a" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
   </div>
 </template>
