@@ -22,7 +22,7 @@ import Contact from "../components/home/Contact.vue";
 Vue.use(Router);
 
 export default new Router({
-  mode: "history",
+  // mode: "history",
   routes: [
     //Home
     {

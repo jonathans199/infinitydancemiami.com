@@ -17,25 +17,26 @@
                 <nav id="primary-menu" class="dark">
                     <ul>
                         <li><a href="https://dancestudio-pro.com/online/index.php?account_id=1160" target="_blank">log in</a></li>
-                        <li><a href="/classes">Classes</a>
+                        <li><router-link :to="{ name: 'Classes' }">Classes</router-link>
                             <ul>
-                                <li><a href="/schedule">Schedule</a></li>
-                                <li><a href="/camps">Camps</a></li>
+                                <li><router-link :to="{ name: 'Schedule' }">Schedule</router-link></li>
+																<li><router-link :to="{ name: 'Camps' }">Camps</router-link></li>
                             </ul>
                         </li>
-                        <li><a href="/2016-spring">shows</a>
+                        <li><a href="#">shows</a>
                             <ul>
-                                <li><a href="/2016-spring">2016 Spring</a></li>
-                                <li><a href="/2015-winter">2015 Winter</a></li>
-                                <li><a href="/2014-winter">2014 Winter</a></li>
-                                <li><a href="/2014-summer">2014 Summer</a></li>
-                                <li><a href="/2013-june">2013 Summer</a></li>
+																<li><router-link :to="{ name: 'Spring16' }">2016 Spring</router-link></li>
+																<li><router-link :to="{ name: 'Spring2015' }">2015 Winter</router-link></li>
+																<li><router-link :to="{ name: 'Spring2014' }">2014 Winter</router-link></li>
+																<li><router-link :to="{ name: 'Sprgin20142' }">2014 Summer</router-link></li>
+																<li><router-link :to="{ name: 'Spring2013' }">2013 Summer</router-link></li>
                             </ul>
                         </li>
-                        <li><a href="/tuitionandfees">tuition &amp; fees</a></li>
-                        <li><a href="/competition">Competition Team</a></li>
-						<li><a href="/about">About</a></li>
-                        <li><a href="/contact">contact</a></li>
+												<li><router-link :to="{ name: 'Tuitionandfees' }">tuition &amp; fees</router-link></li>
+												<li><router-link :to="{ name: 'Competition' }">Competition Team</router-link></li>
+												<li><router-link :to="{ name: 'About' }">About</router-link></li>
+												<li><router-link :to="{ name: 'Contact' }">contact</router-link></li>
+
                     </ul>
                 </nav>
             </div>
