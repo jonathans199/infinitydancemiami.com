@@ -105,7 +105,7 @@ export default {
         email: ''
       },
       show: true,
-      api: config.defaultURL + '/api/news_letters'
+      api: 'https://api.tzuru.com/api/v1/store/075be20f-c3d9-4332-b03b-e59b61a8dd25/client/forms?type=news_letter'
     }
   },
 
@@ -115,8 +115,8 @@ export default {
       this.loading = true
       axios.post(this.api, this.form)
       .then(response => {
-        this.$toasted.show(response.data.m, { 
-          position:'top-right', 
+        this.$toasted.show('Subscribed to our newsletter', { 
+          position:'top-right',
           duration: 5000,
           type: 'success'
         })
