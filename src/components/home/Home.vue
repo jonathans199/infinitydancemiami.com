@@ -26,11 +26,12 @@
                     <div class="col_one_third bottommargin">
                         <div class="feature-box media-box">
                             <div class="fbox-media">
-                                <a href="/competition"><img src="/assets/img/competition_team_thumb.jpg" alt="Competition Dance">
-                                </a>
+                                <router-link :to="{ name: 'Competition' }">
+                                    <img src="/assets/img/competition_team_thumb.jpg" alt="Competition Dance">
+                                </router-link>
                             </div>
                             <div class="fbox-desc">
-                                <h3><a href="competition.html"> Competition dance</a><span class="subtitle">For dancers ages 5 through 18</span></h3>
+                                <h3> <router-link :to="{ name: 'Competition' }"> Competition dance</router-link><span class="subtitle">For dancers ages 5 through 18</span></h3>
                                 <p>Team members are selected through an annual audition process. Our studio's goal is to provide as many dancers as possible the opportunity to continuously challenge themselves in an different environment while providing
                                     the same superior dance education we are known to offer to all of our students. </p>
                             </div>
@@ -39,11 +40,16 @@
                     <div class="col_one_third nobottommargin">
                         <div class="feature-box media-box">
                             <div class="fbox-media">
-                                <a href="/classes"><img src="/assets/img/recreational-dance.jpg" alt="Recreational Dance">
-                                </a>
+                                <router-link :to="{name: 'Classes' }">
+                                    <img src="/assets/img/recreational-dance.jpg" alt="Recreational Dance">
+                                </router-link>
                             </div>
                             <div class="fbox-desc">
-                                <h3><a href="classes.html">recreational dance</a><span class="subtitle">Studio Dance, Fitness, and Recreational Classes.</span></h3>
+                                <h3>
+                                    <router-link :to="{ name: 'Classes'}">
+                                        recreational dance
+                                    </router-link>
+                                        <span class="subtitle">Studio Dance, Fitness, and Recreational Classes.</span></h3>
                                 <p>We are pleased to have certified and professional dance staff members trained in specific genres of dance with rich background in performance, training and choreography.</p>
                             </div>
                         </div>
@@ -51,8 +57,9 @@
                     <div class="col_one_third nobottommargin col_last">
                         <div class="feature-box media-box">
                             <div class="fbox-media">
-                                <a href="/camps"><img src="/assets/img/seasonal-camp.jpg" alt="Seasonal Camps">
-                                </a>
+                                <router-link :to="{ name: 'Classes'}">
+                                    <img src="/assets/img/seasonal-camp.jpg" alt="Seasonal Camps">
+                                </router-link>
                             </div>
                             <div class="fbox-desc">
                                 <h3><a href="/camps">seasonal camps &amp; programs</a><span class="subtitle">Summer, Afterschool &amp; Daytime Camps Available</span></h3>
@@ -266,6 +273,8 @@
                 </div>
             </div>
         </section>
+        <!-- <iframe src="https://api.instagram.com/oembed?url=https://www.instagram.com/infinitydancestudio/" frameborder="0"></iframe> -->
+
         <iframe src="http://lightwidget.com/widgets/fef6ea691aa555e7874b9915019cb3b6.html" id="lightwidget_fef6ea691a" name="lightwidget_fef6ea691a" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
   </div>
 </template>

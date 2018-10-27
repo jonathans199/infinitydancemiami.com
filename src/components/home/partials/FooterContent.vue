@@ -17,7 +17,7 @@
             <div class="col-md-4">
                 <div>
                     <div class="widget clearfix">
-                        <div style="background: transparent url(images/world-map.png) no-repeat scroll center center / 100% auto;">
+                        <div style="background: transparent url(images/) no-repeat scroll center center / 100% auto;">
                             <h4>Infinity Dance Studio</h4>
                             <address>
                                 <h5>
@@ -51,29 +51,26 @@
                       <input class="btn btn-success" type="submit" value="Submit" id="catwebformbutton">
                         
                     </form>
-                    <div class="widget clearfix" style="margin-bottom: -20px;">
+                    <div class="widget clearfix" style="margin-bottom: -20px; font-size: 3rem;">
                         <div class="row">
                             <div class="col-md-3 clearfix bottommargin-sm">
-                                <a href="https://www.facebook.com/infinitydanceschool/" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
-                                    <em class="icon-facebook"></em>
+                                <a href="https://www.facebook.com/infinitydanceschool/" style="margin-right: 10px;">
+                                    <i class="icon-facebook"></i>
                                     
                                 </a>
                             </div>
                             <div class="col-md-3 clearfix bottommargin-sm">
-                                <a href="https://www.instagram.com/infinitydancestudio/" class="social-icon si-dark si-colored si-instagram nobottommargin" style="margin-right: 10px;">
-                                    <em class="icon-instagram"></em>
+                                <a href="https://www.instagram.com/infinitydancestudio/"  style="margin-right: 10px;">
                                     <em class="icon-instagram"></em>
                                 </a>
                             </div>
                             <div class="col-md-3 clearfix bottommargin-sm">
-                                <a href="https://www.youtube.com/user/infinitydancestudio1" class="social-icon si-dark si-colored si-youtube nobottommargin" style="margin-right: 10px;">
-                                    <em class="icon-youtube"></em>
+                                <a href="https://www.youtube.com/user/infinitydancestudio1" style="margin-right: 10px;">
                                     <em class="icon-youtube"></em>
                                 </a>
                             </div>
                             <div class="col-md-3 clearfix bottommargin-sm">
-                                <a href="#" class="social-icon si-dark si-colored si-gplus nobottommargin" style="margin-right: 10px;">
-                                    <em class="icon-gplus"></em>
+                                <a href="#" style="margin-right: 10px;">
                                     <em class="icon-gplus"></em>
                                 </a>
                             </div>
