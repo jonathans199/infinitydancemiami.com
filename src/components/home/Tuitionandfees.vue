@@ -24,7 +24,8 @@
                                 <span class="price-unit">&dollar;</span>0<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="contact.html" class="btn btn-danger btn-block">START TRIAL</a>
+                                
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -37,7 +38,7 @@
                                 <span class="price-unit">&dollar;</span>60<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="contact.html" class="btn btn-danger btn-block border-color">Get Started</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -50,7 +51,7 @@
                                 <span class="price-unit">&dollar;</span>100<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="contact.html" class="btn btn-danger bgcolor btn-block">Get Started</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -63,7 +64,7 @@
                                 <span class="price-unit">&dollar;</span>120<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="contact.html" class="btn btn-danger btn-block">Get Started</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -76,7 +77,7 @@
                                 <span class="price-unit">&dollar;</span>145<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="contact.html" class="btn btn-danger btn-block">Get Started</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -93,7 +94,7 @@
                                 <span class="price-unit">&dollar;</span>165<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="contact.html" class="btn btn-danger btn-block">Start Trial</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -106,7 +107,7 @@
                                 <span class="price-unit">&dollar;</span>185<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="/contact" class="btn btn-danger btn-block">Get Started</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
@@ -119,12 +120,9 @@
                                 <span class="price-unit">&dollar;</span>200<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
-                                <a href="/contact" class="btn btn-danger btn-block">Get Started</a>
+                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
-
-
-
                     </div>
                     <div class="col-lg-12 center">
 
