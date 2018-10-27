@@ -232,7 +232,7 @@
                             <div class="col-md-4 col-sm-8 ">
                                 <div class="team">
                                     <div class="team-image">
-                                        <img alt="John Doe" src="/assets/img/Paty.jpg" />
+                                        <img alt="John Doe" src="@/assets/img/Paty.jpg" />
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
@@ -259,6 +259,84 @@
                                 <div class="team">
                                     <div class="team-image">
                                         <img alt="Mary Jane" src="/assets/img/Paula.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Paula Barreiro</h4>
+                                            <span>Assistant</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Nuris" src="@/assets/img/destiny.png" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Teacher destiny</h4>
+                                            <span>Teacher</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Irasema Berreiro" src="@/assets/img/Nuris.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Irasema Cabrera</h4>
+                                            <span>Co-Founder </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Mary Jane" src="@/assets/img/teacher.png" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Paula Barreiro</h4>
+                                            <span>Assistant</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Nuris" src="@/assets/img/kelly.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Teacher destiny</h4>
+                                            <span>Teacher</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Irasema Berreiro" src="@/assets/img/abuela.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Irasema Cabrera</h4>
+                                            <span>Co-Founder </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Mary Jane" src="@/assets/img/yadida.jpg" />
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
