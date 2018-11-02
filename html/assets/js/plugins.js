@@ -5189,7 +5189,7 @@ function(a, b) {
         }
         if (t) {
             var r = "undefined" == typeof console ? e : function(t) {
-                console.error(t)
+                
             };
             return t.bridget = function(t, e) {
                 i(e), n(t, e)
