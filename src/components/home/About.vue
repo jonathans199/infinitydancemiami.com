@@ -47,9 +47,145 @@
         
     </div>
     
+    
 </section>
+
+            
+                  
+                   
+               
+                <div>
+                    <div class="container clearfix">
+                        <div class="row">
+                            <div class="heading-block center topmargin-lg">
+                                <h3>Meet Our Team</h3>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="John Doe" src="@/assets/img/Paty.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Patricia Barreiro</h4>
+                                            <span>Director and Instructor </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Irasema Berreiro" src="/assets/img/iracema.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Irasema Cabrera</h4>
+                                            <span>Co-Founder </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Mary Jane" src="/assets/img/Paula.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Paula Barreiro</h4>
+                                            <span>Assistant</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Nuris" src="@/assets/img/destiny.png" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Destiny Diaz</h4>
+                                            <span>Hip Hop and Contemporary Instructor</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Irasema Berreiro" src="@/assets/img/Nuris.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Niuris Torres</h4>
+                                            <span>Assistant Director and Instructor</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Mary Jane" src="@/assets/img/teacher.png" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Alihaydee Carreño</h4>
+                                            <span>Ballet Maitre</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Nuris" src="@/assets/img/kelly.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Kelly Rodriguez</h4>
+                                            <span>Belly Dance Instructor</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Irasema Berreiro" src="@/assets/img/abuela.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Angela Cabrera</h4>
+                                            <span> </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Mary Jane" src="@/assets/img/yadida.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            <h4>Yadira Garcia</h4>
+                                            <span>Acrobatics Instructor</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
   </div>
 </template>
+
+
 <script>
   export default {
     name: "About",

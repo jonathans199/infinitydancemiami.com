@@ -152,6 +152,7 @@
                             <span>2016</span>
                         </div>
                     </article>
+
                     <article class="portfolio-item pf-media pf-icons">
                         <div class="portfolio-image">
                             <a href="portfolio-single.html">
@@ -195,6 +196,13 @@
                         </div>
                     </article>
                 </div>
+                <div class="nobottommargin nobottomborder">
+                    <div class="container clearfix">
+                        <div class="heading-block center topmargin-lg">
+                            <h3>INSTAGRAM FEED</h3>
+                        </div>
+                    </div>
+                </div>
                 <!--<script type="text/javascript">
                     jQuery(window).load(function() {
 
@@ -223,7 +231,7 @@
 
                     });
                 </script>-->
-                <div>
+             <!-- <div>
                     <div class="container clearfix">
                         <div class="row">
                             <div class="heading-block center topmargin-lg">
@@ -237,7 +245,7 @@
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
                                             <h4>Patricia Barreiro</h4>
-                                            <span>Founder</span>
+                                            <span>Director and Instructor </span>
                                         </div>
                                     </div>
                                 </div>
@@ -275,8 +283,8 @@
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
-                                            <h4>Teacher destiny</h4>
-                                            <span>Teacher</span>
+                                            <h4>Destiny Diaz</h4>
+                                            <span>Hip Hop and Contemporary Instructor</span>
                                         </div>
                                     </div>
                                 </div>
@@ -288,8 +296,8 @@
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
-                                            <h4>Irasema Cabrera</h4>
-                                            <span>Co-Founder </span>
+                                            <h4>Niuris Torres</h4>
+                                            <span>Assistant Director and Instructor</span>
                                         </div>
                                     </div>
                                 </div>
@@ -301,8 +309,8 @@
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
-                                            <h4>Paula Barreiro</h4>
-                                            <span>Assistant</span>
+                                            <h4>Alihaydee Carreño</h4>
+                                            <span>Ballet Maitre</span>
                                         </div>
                                     </div>
                                 </div>
@@ -314,8 +322,8 @@
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
-                                            <h4>Teacher destiny</h4>
-                                            <span>Teacher</span>
+                                            <h4>Kelly Rodriguez</h4>
+                                            <span>Belly Dance Instructor</span>
                                         </div>
                                     </div>
                                 </div>
@@ -327,8 +335,8 @@
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
-                                            <h4>Irasema Cabrera</h4>
-                                            <span>Co-Founder </span>
+                                            <h4>Angela Cabrera</h4>
+                                            <span> </span>
                                         </div>
                                     </div>
                                 </div>
@@ -340,17 +348,18 @@
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
-                                            <h4>Paula Barreiro</h4>
-                                            <span>Assistant</span>
+                                            <h4>Yadira Garcia</h4>
+                                            <span>Acrobatics Instructor</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
-        </section>
+        </section> 
+        
         <!-- <iframe src="https://api.instagram.com/oembed?url=https://www.instagram.com/infinitydancestudio/" frameborder="0"></iframe> -->
 
         <iframe src="http://lightwidget.com/widgets/fef6ea691aa555e7874b9915019cb3b6.html" id="lightwidget_fef6ea691a" name="lightwidget_fef6ea691a" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
