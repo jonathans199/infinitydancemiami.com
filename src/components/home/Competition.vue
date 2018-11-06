@@ -232,21 +232,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-8 ">
-                                <div class="team">
-                                    <div class="team-image">
-                                        <img alt="Nuris" src="@/assets/img/sponsors/logonew4.png" />
-                                    </div>
-                                    <div class="team-desc team-desc-bg">
-                                        <div class="team-title">
-                                           
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             
                            
-                        
+        
                            
                            
                         </div>
