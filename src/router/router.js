@@ -86,7 +86,7 @@ export default new Router({
     
     {
       name: "Spring2013",
-      path: "/2013-Spring",
+      path: "/2013-june",
       component: Spring13
     },
     // {
