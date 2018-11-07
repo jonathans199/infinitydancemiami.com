@@ -50,8 +50,8 @@
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/s03.png" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/03.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/correcions03.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/correcion03.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
@@ -136,25 +136,25 @@
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/sv02.png" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/v02.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/correcionsv02.png" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/correcionv02.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/sv03.png" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/v03.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/correcionsv03.png" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/correcionv03.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
                                 <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/sv04.png" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/v04.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/correcionv04.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/sv05.png" alt="Spring 2016 IDS" /> </a>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2018-spring/thumbs/correcionsv05.png" alt="Spring 2016 IDS" /> </a>
                                 <div class="portfolio-overlay"> <a href="/assets/img/2018-spring/v05.png" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>

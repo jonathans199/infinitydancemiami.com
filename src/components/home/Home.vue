@@ -27,7 +27,7 @@
                         <div class="feature-box media-box">
                             <div class="fbox-media">
                                 <router-link :to="{ name: 'Competition' }">
-                                    <img src="/assets/img/competition_team_thumb.jpg" alt="Competition Dance">
+                                    <img src="/assets/img/test1.jpg" alt="Competition Dance">
                                 </router-link>
                             </div>
                             <div class="fbox-desc">
