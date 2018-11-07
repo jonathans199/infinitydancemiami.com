@@ -13,6 +13,10 @@ import Spring15 from "../components/home/2015Spring.vue";
 import Spring14 from "../components/home/2014Spring.vue";
 import Spring142 from "../components/home/20142Spring.vue";
 import Spring13 from "../components/home/2013Spring.vue";
+import Spring17 from "../components/home/2017Spring.vue";
+import Spring18 from "../components/home/2018Spring.vue";
+import Winter17 from "../components/home/2017Winter.vue";
+
 
 import Tuitionandfees from "../components/home/Tuitionandfees.vue";
 import Whatson from "../components/home/whatson.vue";
@@ -79,11 +83,31 @@ export default new Router({
       path: "/2014-summer",
       component: Spring142
     },
-    // 2.5 2013-spring
+    
     {
       name: "Spring2013",
       path: "/2013-june",
       component: Spring13
+    },
+    // {
+    //   name: "Spring2017",
+    //   path: "/2017spring",
+    //   component: Spring17
+    // },
+    {
+      name: "Spring2017",
+      path: "/2017-Spring",
+      component: Spring17
+    },
+    {
+      name: "Spring2018",
+      path: "/2018-Spring",
+      component: Spring18
+    },
+    {
+      name: "Winter2017",
+      path: "/2017-Winter",
+      component: Winter17
     },
     // END Menu Show
     {

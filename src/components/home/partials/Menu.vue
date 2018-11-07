@@ -26,10 +26,14 @@
                         <li><a href="#">shows</a>
                             <ul>
 								<li><router-link :to="{ name: 'Spring16' }">2016 Spring</router-link></li>
+								<li><router-link :to="{ name: 'Spring2017' }">2017 Spring</router-link></li>
 								<li><router-link :to="{ name: 'Spring2015' }">2015 Winter</router-link></li>
 								<li><router-link :to="{ name: 'Spring2014' }">2014 Winter</router-link></li>
 								<li><router-link :to="{ name: 'Sprgin20142' }">2014 Summer</router-link></li>
 								<li><router-link :to="{ name: 'Spring2013' }">2013 Summer</router-link></li>
+								<li><router-link :to="{ name: 'Spring2018' }">2018 Spring</router-link></li>
+								<li><router-link :to="{ name: 'Winter2017' }">2017 Winter</router-link></li>
+								<!-- <li><router-link :to="{ name: 'Spring2018' }">new show</router-link></li> -->
                             </ul>
                         </li>
 							<li><router-link :to="{ name: 'Tuitionandfees' }">tuition &amp; fees</router-link></li>
