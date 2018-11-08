@@ -73,19 +73,17 @@
         </section>
     </div>
 </template>
+
 <script>
+
   export default {
     name: 'slider',
     components:{
 
-    },
-
-    mounted(){
-      
-        
     }
   }
-</script>
+</script> 
+
 <style>
 .revo-slider-emphasis-text {
   font-size: 64px;

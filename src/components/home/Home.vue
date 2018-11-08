@@ -378,14 +378,14 @@
     mounted(){
     jQuery(window).load(function() {
         
-        var $container = jQuery('#portfolio');
+        // var $container = jQuery('#portfolio');
         
-        $container.isotope({
-            transitionDuration: '0.65s',
-            masonry: {
-                columnWidth: $container.find('.portfolio-item:not(.wide)')[0]
-            }
-        });
+        // $container.isotope({
+        //     transitionDuration: '0.65s',
+        //     masonry: {
+        //         columnWidth: $container.find('.portfolio-item:not(.wide)')[0]
+        //     }
+        // });
         
         jQuery('#page-menu a').click(function() {
             jQuery('#page-menu li').removeClass('current');
@@ -397,9 +397,9 @@
             return false;
         });
         
-        jQuery(window).resize(function() {
-            $container.isotope('layout');
-        });
+        // jQuery(window).resize(function() {
+        //     $container.isotope('layout');
+        // });
         
     });
   }
