@@ -56,106 +56,107 @@
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic8.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic8.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/07.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/07.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic9.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic9.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/08.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/08.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/sv101.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/v01.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/v01.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/v01.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/sv102.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/v02.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/v02.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/v02.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/sv103.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/v03.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/correcionv03.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/correcionv03.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/sv104.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/v04.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/correcionv04.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/correcionv04.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic10.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic10.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/09.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/09.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic11.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic11.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/10.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/10.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic12.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic12.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/11.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/11.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic13.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic13.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/correcion12.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/correcion12.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic14.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic14.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/13.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/13.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic15.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic15.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/14.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/14.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic16.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic16.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/correcion15.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/correcion15.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic17.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic17.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/correcion16.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/correcion16.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic18.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic18.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/17.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/17.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic19.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic19.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/18.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/18.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
-                                <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic20.jpg" alt="Spring 2016 IDS" /> </a>
-                                <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic20.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
+                                <a href="portfolio-single.html"> <img src="/assets/img/2017-winter/thumbs/19.jpg" alt="Spring 2016 IDS" /> </a>
+                                <div class="portfolio-overlay"> <a href="/assets/img/2017-winter/19.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
+                        <!--
                         <article class="portfolio-item 2016-spring">
                             <div class="portfolio-image">
                                 <a href="portfolio-single.html"> <img src="/assets/img/2017-spring/thumbs/smallpic21.jpg" alt="Spring 2016 IDS" /> </a>
@@ -186,6 +187,7 @@
                                 <div class="portfolio-overlay"> <a href="/assets/img/2017-spring/pic25.jpg" data-lightbox="image" class="center-icon"><em class="icon-line-plus"></em></a> </div>
                             </div>
                         </article>
+                        -->
 
                     </div>
                 </div>

@@ -232,6 +232,18 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-md-4 col-sm-8 ">
+                                <div class="team">
+                                    <div class="team-image">
+                                        <img alt="Mary Jane" src="@/assets/img/sponsors/logonew17.jpg" />
+                                    </div>
+                                    <div class="team-desc team-desc-bg">
+                                        <div class="team-title">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             
                             
                            
