@@ -284,7 +284,7 @@
     components: {
 
     },
-    mounted(){
+    beforeMount(){
     jQuery(window).load(function() {
 
         var $container = jQuery('#portfolio');
