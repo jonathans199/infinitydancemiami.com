@@ -18,7 +18,7 @@
 
                         <div class="col-md-12">
 
-                            <h3>Competition Teams</h3>
+                            <h3>Competition Team</h3>
 
                             <p>Infinity Dance Studio offers competitive dance teams for children ages 5 through 18. Team members are selected through an annual audition process. Our studio's goal is to provide as many dancers as possible the opportunity to continuously challenge themselves in an different environment while providing the same superior dance education we are known to offer to all of our students. Auditions for our teams will be held during the Summer of the current year for the next competition season.</p>
 

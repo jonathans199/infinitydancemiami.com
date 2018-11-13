@@ -89,11 +89,6 @@ export default new Router({
       path: "/2013-june",
       component: Spring13
     },
-    // {
-    //   name: "Spring2017",
-    //   path: "/2017spring",
-    //   component: Spring17
-    // },
     {
       name: "Spring2017",
       path: "/2017-Spring",

@@ -2,14 +2,13 @@
  <div>
    <footer id="footers">
     <div class="container">
-        <!-- Footer Widgets
-============================================= -->
+        <!-- Footer Widgets ============================================= -->
         <div class="footer-widgets-wrap clearfix">
             <div class="col-md-4">
                 <div>
                     <div class="widget clearfix">
                         <img src="@/assets/img/ids_logo85px.png" alt="Infinity Dance Studio" class="footer-logo">
-                        <p> Copyrights © 2016
+                        <p> Copyrights © 2016 
                             <br> All Rights Reserved by Infinity Dance Studio, Inc</p>
                     </div>
                 </div>

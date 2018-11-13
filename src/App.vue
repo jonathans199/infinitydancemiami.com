@@ -23,6 +23,7 @@ export default {
     "footer-content": Footer
   }
 }
+
 </script>
 
 <style lang="sass">
