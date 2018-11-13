@@ -163,7 +163,7 @@
                             <div class="col-md-4 col-sm-8 ">
                                 <div class="team">
                                     <div class="team-image">
-                                        <img alt="Mary Jane" src="@/assets/img/sponsors/logonew9.jpg" />
+                                        <img alt="Mary Jane" src="@/assets/img/sponsors/logonew18.jpg" />
                                     </div>
                                     <div class="team-desc team-desc-bg">
                                         <div class="team-title">
