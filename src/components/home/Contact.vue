@@ -146,11 +146,13 @@
 </template>
 <script>
 
+import * as config from '@/config/settings'
 import axios from 'axios'
 import Toasted from 'vue-toasted'
 import Vue from 'vue';
 import jQuery from 'jquery'
 let config = require('./../../../vue.config.js')
+
 
 Vue.use(Toasted)
 
