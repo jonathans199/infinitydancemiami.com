@@ -24,7 +24,7 @@
 
                         <p>Some of our activities are: Acting, Acrobatics, Ballet, Ballroom, Belly Dancing, Conditioning, Flamenco, Jazz, Hip-Hop, Field Trips and more! </p>
 
-                        <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                        <a href="/#/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
 
                     </div>
 
@@ -39,7 +39,7 @@
                         <p>We offer day camp during Teacher Planning Days where dancers spend a fun filled day with some dancing and artistic activities. Lunch and snacks provided!
                         </p>
 
-                        <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                        <a href="/#/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
 
                     </div>
                     <div class="col_one_third bottommargin-lg center align-right">
@@ -60,7 +60,7 @@
 
                         <p>Our studio offers after school care and tutoring at our location. This program includes homework assistance and tutoring, weekly dance classes and snacks.
                         </p>
-                        <a href="/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
+                        <a href="/#/contact" class="button button-border button-dark button-rounded button-large noleftmargin topmargin-sm">Learn more</a>
 
                     </div>
 
