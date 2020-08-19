@@ -35,7 +35,7 @@
                                 <span>per week</span>
                             </div>
                             <div class="pricing-price">
-                                <span class="price-unit">&dollar;</span>60<span class="price-tenure">/mo</span>
+                                <span class="price-unit">&dollar;</span>72<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
                                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
@@ -48,7 +48,7 @@
                                 <span>per week</span>
                             </div>
                             <div class="pricing-price">
-                                <span class="price-unit">&dollar;</span>100<span class="price-tenure">/mo</span>
+                                <span class="price-unit">&dollar;</span>120<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
                                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
@@ -61,7 +61,7 @@
                                 <span>per week</span>
                             </div>
                             <div class="pricing-price">
-                                <span class="price-unit">&dollar;</span>120<span class="price-tenure">/mo</span>
+                                <span class="price-unit">&dollar;</span>140<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
                                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
@@ -74,7 +74,7 @@
                                 <span>per week</span>
                             </div>
                             <div class="pricing-price">
-                                <span class="price-unit">&dollar;</span>145<span class="price-tenure">/mo</span>
+                                <span class="price-unit">&dollar;</span>160<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
                                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
@@ -85,33 +85,20 @@
                     </div>
                     <div class="pricing bottommargin clearfix">
 
-                        <div class="col-sm-4 pricing-box pricing-minimal">
+                        <div class="col-sm-6 pricing-box pricing-minimal">
                             <div class="pricing-title">
                                 <h3>5 classes</h3>
                                 <span>per week</span>
                             </div>
                             <div class="pricing-price">
-                                <span class="price-unit">&dollar;</span>165<span class="price-tenure">/mo</span>
+                                <span class="price-unit">&dollar;</span>180<span class="price-tenure">/mo</span>
                             </div>
                             <div class="pricing-action">
                                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
                             </div>
                         </div>
 
-                        <div class="col-sm-4 pricing-box pricing-minimal">
-                            <div class="pricing-title">
-                                <h3>6 classes</h3>
-                                <span>per week</span>
-                            </div>
-                            <div class="pricing-price">
-                                <span class="price-unit">&dollar;</span>185<span class="price-tenure">/mo</span>
-                            </div>
-                            <div class="pricing-action">
-                                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4 pricing-box pricing-minimal">
+                        <div class="col-sm-6 pricing-box pricing-minimal">
                             <div class="pricing-title">
                                 <h3>&infin;unlimited classes</h3>
                                 <span>per week</span>
@@ -132,7 +119,7 @@
                         </h4>
 
                         <h2>Registration Fee</h2>
-                        <h4>Registration fee of $35.00 is once a year payment. This is a non-refundable fee. If the student retires from dancing for a full month, registration will be required when returning. <br /> Additional siblings: $20/each</h4>
+                        <h4>Registration fee of $40.00 is once a year payment. This is a non-refundable fee. If the student retires from dancing for a full month, registration will be required when returning. <br /> Additional siblings: $20/each</h4>
 
                         <h2>Make-Up Classes</h2>
                         <h4>In case of missed class due to emergency, it may be made up within 30 days from the day of absence. No credits/refunds will be issued for any missed classes.</h4>
