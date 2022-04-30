@@ -2,11 +2,11 @@
   <div>
     <section
       id="page-title"
-      class="page-title-parallax page-title-dark page-title-right"
+      class="page-title-dark"
       style="padding: 250px 0; 
-        background-image: url('/assets/img/student-spotlight/amanda-alvarez2.jpeg'); 
+        background-image: url('https://infinitydancemiami222222-staging.s3.amazonaws.com/amanda-alvarez2.jpeg'); 
         background-size: cover; 
-        background-position: center -1900px;"
+        background-position: center -1750px;"
       data-stellar-background-ratio="0.2"
     >
       <div class="container clearfix">
@@ -30,10 +30,10 @@
             </div>
 
             <div class="col-md-12">
-              <img src="/assets/img/student-spotlight/amanda-alvarez.jpeg" alt="" />
+              <img src="https://infinitydancemiami222222-staging.s3.amazonaws.com/amanda-alvarez.jpeg" alt="" />
             </div>
             <div class="col-md-12">
-              <img src="/assets/img/student-spotlight/amanda-alvarez2.jpeg" alt="" />
+              <img src="https://infinitydancemiami222222-staging.s3.amazonaws.com/amanda-alvarez2.jpeg" alt="" />
             </div>
           </div>
         </div>

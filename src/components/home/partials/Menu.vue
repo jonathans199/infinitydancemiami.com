@@ -19,7 +19,7 @@
           <nav id="primary-menu" class="dark">
             <ul>
               <li><a href="https://dancestudio-pro.com/online/index.php?account_id=1160" target="_blank">log in</a></li>
-              <!-- <li><router-link :to="{ name: 'StudentSpotlight' }">Student Spotlight</router-link></li> -->
+              <li><router-link :to="{ name: 'StudentSpotlight' }">Student Spotlight</router-link></li>
               <li>
                 <router-link :to="{ name: 'Classes' }">Classes</router-link>
                 <ul>
