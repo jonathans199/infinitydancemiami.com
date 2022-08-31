@@ -4,7 +4,7 @@
 			<div class="container clearfix">
 				<h1>Contact us today!</h1>
 				<span><a href="tel:7867526888">(786) 752-6888</a></span>
-				<span><a href="mailto:dance@infinitydancemiami.com">dance@infinitydancemiami.com</a></span>
+				<span><a href="mailto:infinitydancestudio1@gmail.com">infinitydancestudio1@gmail.com</a></span>
 			</div>
 		</section>
 

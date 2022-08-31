@@ -25,7 +25,7 @@
                             </address>
                             <h5>
                                 <a href="tel:786-752-6888">(786) 752-6888</a><br>
-                                <a href="mailto:dance@infinitydancemiami.com"> dance@infinitydancemiami.com </a>
+                                <a href="mailto:infinitydancestudio1@gmail.com"> infinitydancestudio1@gmail.com </a>
                             </h5>
                         </div>
                     </div>
