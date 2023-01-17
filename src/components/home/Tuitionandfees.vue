@@ -34,7 +34,7 @@
                 <span>per week</span>
               </div>
               <div class="pricing-price">
-                <span class="price-unit">&dollar;</span>72<span class="price-tenure">/mo</span>
+                <span class="price-unit">&dollar;</span>75<span class="price-tenure">/mo</span>
               </div>
               <div class="pricing-action">
                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
@@ -81,7 +81,7 @@
             </div>
           </div>
           <div class="pricing bottommargin clearfix">
-            <div class="col-sm-6 pricing-box pricing-minimal">
+            <div class="col-sm-4 pricing-box pricing-minimal">
               <div class="pricing-title">
                 <h3>5 classes</h3>
                 <span>per week</span>
@@ -94,13 +94,25 @@
               </div>
             </div>
 
-            <div class="col-sm-6 pricing-box pricing-minimal">
+            <div class="col-sm-4 pricing-box pricing-minimal">
               <div class="pricing-title">
                 <h3>&infin;unlimited classes</h3>
                 <span>per week</span>
               </div>
               <div class="pricing-price">
                 <span class="price-unit">&dollar;</span>220<span class="price-tenure">/mo</span>
+              </div>
+              <div class="pricing-action">
+                <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
+              </div>
+            </div>
+            <div class="col-sm-4 pricing-box pricing-minimal">
+              <div class="pricing-title">
+                <h3>Aftercare</h3>
+                <span>per week</span>
+              </div>
+              <div class="pricing-price">
+                <span class="price-unit">&dollar;</span>105<span class="price-tenure">/mo</span>
               </div>
               <div class="pricing-action">
                 <router-link :to="{ name: 'Contact' }" class="btn btn-danger btn-block">Get Started</router-link>
