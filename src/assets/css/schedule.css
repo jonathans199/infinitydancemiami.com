@@ -1,0 +1,29 @@
+.table-full {
+	margin: 2rem 5rem;
+  overflow-x: auto; 
+}
+
+.table-cell {
+	text-align: center;
+	font-weight: 800;
+	min-width: 70px;
+}
+
+@media print {
+	body {
+		visibility: hidden;
+    margin: 0; /* Remove page margins */
+	}
+	#printableArea {
+		visibility: visible;
+    font-size: 12px;
+    page-break-before: auto;
+    page-break-after: auto;
+    page-break-inside: avoid;
+	}
+}
+
+@page {
+  size: landscape;
+  margin: 0; /* Remove page margins */
+}
